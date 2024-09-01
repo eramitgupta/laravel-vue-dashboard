@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{k as t,o as c,c as n}from"./app-BlZaCEtt.js";const r={};function a(s,p){const o=t("AppLayout");return c(),n(o,{title:"Home Page"})}const f=e(r,[["render",a]]);export{f as default};
